@@ -1,5 +1,5 @@
 /**
- * Typescript fibonacci sequence number with memorization example
+ * Typescript Fibonacci sequence number with memorization example
  */
 
 const fibonacci = (n, memo = {}) => {
